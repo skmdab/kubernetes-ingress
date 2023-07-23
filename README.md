@@ -8,6 +8,7 @@ Ensure you have `kubectl` and the appropriate Kubernetes context configured.
 0. Navigate to the deployments directory:
 
 git clone https://github.com/skmdab/kubernetes-ingress.git
+
 cd kubernetes-ingress/deployments
 
 1. Create a namespace and a service account for the NGINX Ingress Controller:
